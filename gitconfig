@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Abdullahzen25@gmail.com
+	name = Abdullah Hassan
